@@ -62,7 +62,7 @@ The philosophy of `Discovery Navigation` is to create a simple and convenient so
 - 🍰 Multiple aesthetic themes
 - 🍰 Powerful responsive system
 - 🍰 Various loading animations
-- 🍰 Multiple card style designs
+- 🍰 Multiple card style designs  
 - 🍰 Completely static with automated deployment
 - 🍰 Clear ternary tree classification structure
 
