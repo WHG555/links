@@ -53,7 +53,7 @@ The philosophy of `Discovery Navigation` is to create a simple and convenient so
 - 🍰 Private visibility configuration
 - 🍰 Auto-fetch website icons/names/descriptions
 - 🍰 Massive widget customization
-- 🍰 Dark mode support
+- 🍰 Dark mode support  
 - 🍰 Backend management without deployment
 - 🍰 Multiple innovative browsing modes
 - 🍰 Footprint memory
